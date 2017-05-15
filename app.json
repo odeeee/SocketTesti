@@ -1,0 +1,6 @@
+{
+  "name": "SocketHero",
+  "description": "Sockets test",
+  "repository": "https://github.com/odeeee/SocketTesti",
+  "success_url": "/welcome"
+}
